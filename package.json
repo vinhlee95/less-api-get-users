@@ -1,10 +1,10 @@
 {
   "name": "hello_world",
   "version": "1.0.0",
-  "description": "hello world sample for NodeJS",
+  "description": "Lambda function for getting users",
   "main": "app.js",
-  "repository": "https://github.com/awslabs/aws-sam-cli/tree/develop/samcli/local/init/templates/cookiecutter-aws-sam-hello-nodejs",
-  "author": "SAM CLI",
+  "author": "Vinh Le <lethanhvinh95@gmail.com>",
+  "repository": "https://github.com/vinhlee95/less-api-get-users",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0"

@@ -14,7 +14,7 @@ Resources:
   users:
     Type: 'AWS::Serverless::Function'
     Properties:
-      Handler: index.handler
+      Handler: app.handler
       Runtime: nodejs12.x
       CodeUri: .
       Description: ''
